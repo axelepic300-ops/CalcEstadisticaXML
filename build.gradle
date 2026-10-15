@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'mx.unison'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+application {
+    mainClass = 'mx.unison.Calculadora'
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': application.mainClass
+    }
+}
