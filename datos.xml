@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos>
+    <registro><edad>18</edad><horas>2</horas></registro>
+    <registro><edad>20</edad><horas>4</horas></registro>
+    <registro><edad>22</edad><horas>6</horas></registro>
+    <registro><edad>24</edad><horas>8</horas></registro>
+</datos>
